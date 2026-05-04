@@ -4174,3 +4174,4 @@ Esto es una prueba en local
 - lakylu81
 
 - ZER0TW002H
+- linosdevs
